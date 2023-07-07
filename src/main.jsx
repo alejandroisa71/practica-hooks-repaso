@@ -10,5 +10,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import { FocusScreen } from './components/04-useRef/FocusScreen.jsx';
 // import { RealExampleRef } from './components/04-useRef/RealExampleRef.jsx';
 import { Memorize } from './components/06-memos/Memorize.jsx';
+import { MemoHook } from './components/06-memos/MemoHook.jsx';
 
-ReactDOM.createRoot(document.getElementById('root')).render(<Memorize />);
+ReactDOM.createRoot(document.getElementById('root')).render(<MemoHook/>);
