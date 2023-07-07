@@ -17,7 +17,7 @@ export const FormWithCustomHook = () => {
 
   const handleSubmit=(e)=>{
     e.preventDefault()
-    console.log('el formuario cambio')
+    console.log('el formulario cambio')
   }
 
   return (
